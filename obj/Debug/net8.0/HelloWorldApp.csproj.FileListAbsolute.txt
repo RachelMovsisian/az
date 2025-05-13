@@ -1,0 +1,14 @@
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.deps.json
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.dll
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/bin/Debug/net8.0/HelloWorldApp.pdb
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.dll
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.pdb
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/home/devops/Documents/myGit/rachel.movsisian/devops/dotnet/HelloWorldApp/obj/Debug/net8.0/ref/HelloWorldApp.dll
